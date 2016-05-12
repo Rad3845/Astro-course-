@@ -4,7 +4,7 @@
 	<title>Mod-4</title>
 </head>
 <body>
-<script src="SpeakHello.js"></script>
+<script src="speakHello.js"></script>
 
 </body>
 </html>
