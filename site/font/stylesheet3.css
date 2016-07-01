@@ -16,7 +16,7 @@ p {
 	border: 1px solid black;
 	background-color: gray;
 	margin:  8px 8px 8px 8px;
-	height: 200px;
+	height: 300px;
 	max-width: 400px;
 	-webkit-border-radius: 10px;
 	-webkit-box-shadow: 5px 5px 5px 5px;
@@ -27,7 +27,7 @@ p {
 	border: 1px solid black;
 	background-color: gray;
 	margin:  8px 8px 8px 8px;
-	height: 200px;
+	height: 300px;
 	max-width: 400px;
 	-webkit-border-radius: 10px;
 	-webkit-box-shadow: 5px 5px 5px 5px;
@@ -36,7 +36,7 @@ p {
 .part3 {float: right;
 	border: 1px solid black;
 	background-color: gray;
-	height: 200px;
+	height: 300px;
 	max-width: 400px;
 	margin:  8px 8px 8px 8px;
 	-webkit-border-radius: 10px;
