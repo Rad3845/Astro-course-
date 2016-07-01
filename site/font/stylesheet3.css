@@ -118,7 +118,6 @@ p {
 @media (min-width: 768px) and (max-width: 991px) {
 	.part1, .part2, .part3 {
 		width: 100%;
-		position: relative;
 		float: left;
 		padding: 10px;
 	}
